@@ -9,7 +9,9 @@
 *.so.*
 *.dll
 *.dylib
-
+# build directories
+build/
+build-*
 # Qt-es
 object_script.*.Release
 object_script.*.Debug
